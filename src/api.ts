@@ -1,5 +1,6 @@
 import { getExtensionVersion } from './utils'
 
+// Written by uday 
 const API_HOST = 'https://chatgpt4google.com'
 // const API_HOST = 'http://localhost:3000'
 
