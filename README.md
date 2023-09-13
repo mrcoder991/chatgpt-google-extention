@@ -4,10 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/chatgpt4google?style=social)](https://twitter.com/chatgpt4google)
 ![License](https://img.shields.io/github/license/wong2/chatgpt-google-extension)
 
-### Notice (2023-02-20)
-
-As this extension has been acquired, this code repository will no longer be updated from now on.
-
 **My new project:**
 [ChatHub: All-in-one chatbot client](https://github.com/chathub-dev/chathub)
 
